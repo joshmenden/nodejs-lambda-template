@@ -6,7 +6,7 @@ A template for quickly setting up a NodeJS Lambda function in AWS.
 
 Once you've created your repo from this template, you're going to want to
 
-1. Comment out the `.env` line of the `.gitignore
+1. Comment out the `.env` line of the `.gitignore`
 2. Run `rm -rf .git` so that anything you add to `.env` going forward isn't checked in to version control.
 3. Run `git init` and make your first commit.
 4. Run `npm install` and check in the `package-lock.json` into version control
