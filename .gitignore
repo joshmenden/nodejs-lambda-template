@@ -1,0 +1,6 @@
+.DS_Store
+index.zip
+node_modules/
+
+# When you add your own env vars, uncomment this line below
+# .env
